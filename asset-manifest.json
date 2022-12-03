@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/GanchiShop/static/css/main.72e3959a.css",
+    "main.js": "/GanchiShop/static/js/main.fb868b75.js",
+    "static/media/produk1.png": "/GanchiShop/static/media/produk1.cdea34eb25028fa6efe0.png",
+    "index.html": "/GanchiShop/index.html",
+    "main.72e3959a.css.map": "/GanchiShop/static/css/main.72e3959a.css.map",
+    "main.fb868b75.js.map": "/GanchiShop/static/js/main.fb868b75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72e3959a.css",
+    "static/js/main.fb868b75.js"
+  ]
+}
