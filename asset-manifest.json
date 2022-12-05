@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.72e3959a.css",
-    "main.js": "/static/js/main.1ea660b1.js",
-    "static/media/produk1.png": "/static/media/produk1.cdea34eb25028fa6efe0.png",
-    "index.html": "/index.html",
-    "main.72e3959a.css.map": "/static/css/main.72e3959a.css.map",
-    "main.1ea660b1.js.map": "/static/js/main.1ea660b1.js.map"
+    "main.css": "/GanchiShop/static/css/main.72e3959a.css",
+    "main.js": "/GanchiShop/static/js/main.ea85ec67.js",
+    "static/media/produk1.png": "/GanchiShop/static/media/produk1.cdea34eb25028fa6efe0.png",
+    "index.html": "/GanchiShop/index.html",
+    "main.72e3959a.css.map": "/GanchiShop/static/css/main.72e3959a.css.map",
+    "main.ea85ec67.js.map": "/GanchiShop/static/js/main.ea85ec67.js.map"
   },
   "entrypoints": [
     "static/css/main.72e3959a.css",
-    "static/js/main.1ea660b1.js"
+    "static/js/main.ea85ec67.js"
   ]
 }
